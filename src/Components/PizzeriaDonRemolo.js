@@ -14,14 +14,11 @@ function MundoMascotaDH(){
 									<img className="img-fluid px-3 px-sm-4 mt-3 mb-4" style={{ width: 40 + 'rem' }} src={imagenMarca} alt=" Imagen Marca MD " />
 								</div>
 							
-								<h5>En Mundo Mascota DH reconocemos a las mascotas como un miembro más de la familia, a las que
-									debemos cuidar, proteger, y brindar el mejor cuidado para que tengan una excelente calidad
-									de vida. Para ello ofrecemos la más amplia variedad en productos alimenticios, accesorios,
-									farmacia, servicios experimentados (veterinaria, peluquería), mascotas para adopción , y
-									mucho más!</h5>
+								<h5>En Pizzeria Don Remolo podes encontrar toda una variedad de las mejores pizzas 
+									y empanadas para degustar y elegir la que mas te guste</h5>
 
 									<h5>Te damos una experiencia diferente de compra, ofreciendo productos y servicios de alta
-									calidad que cumplen con las necesidades de las mascotas y la satisfacción de sus dueños.
+									calidad.
 								</h5>
 								<a className="btn btn-danger" target="_blank" rel="nofollow" href="/">Quienes somos...</a>
 							</div>

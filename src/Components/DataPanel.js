@@ -48,7 +48,7 @@ class DataPanel extends Component{
             
             let user = {
                 color: "azul1",
-                titulo: "Categorias",
+                titulo: "Pedidos",
                 valor: this.state.categories,
                 icono: "fa-solid fa-users"
             }
