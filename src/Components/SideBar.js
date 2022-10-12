@@ -65,7 +65,7 @@ function SideBar() {
                 <Link to='/usuarios'>
                     <a className="nav-link" href="/">
                         <i className="fas fa-paw iconito"></i>
-                        <span>Categorias</span></a>
+                        <span>Pedidos</span></a>
                 </Link>
                 </li>
 
